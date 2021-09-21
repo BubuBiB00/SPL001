@@ -1,1 +1,3 @@
 Das ist eine beliebige Textdatei!
+
+Das ist eine beliebige Nachricht!
